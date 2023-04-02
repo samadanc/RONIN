@@ -10,3 +10,4 @@ matplotlib~=3.5.2
 networkx==2.8.4
 py-jsonic
 stable-baselines3==0.10.0
+pygad==2.19.2

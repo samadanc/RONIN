@@ -7,3 +7,4 @@ analyzed_folder
 error_folder
 action_loger.log
 bug_logger.log
+/package-lock.json

@@ -28,8 +28,10 @@
 * Activate the venv 
 * Launch the command
 
-``python3 main.py --apk_folder /path/to/folder ``
+``python main.py --apk_folder C:\Users\samad\Projects\RONIN\android-app-vulnerability-benchmarks\ICC\IncorrectHandlingImplicitIntent-UnauthorizedAccess-Lean\Malicious``
 
+To start appium manually,
+`appium -p 4723 --log-level error:error`
 
 # Output
 
